@@ -1,1 +1,1 @@
-mapbox_gl_platform_interface
+Contains the web platform implementation for the [Flutter Mapbox GL plugin](https://github.com/tobrun/flutter-mapbox-gl).
